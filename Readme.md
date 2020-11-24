@@ -4,7 +4,7 @@
 It is a CLI quiz app for Anjali's friends and families to check how well do they know her. 
 This super interesting quiz is made using nodejs.
 
-let's jump onto quiz details:
+let's jump onto do-you-know-me quiz details :
 
 </p>
 

@@ -1,16 +1,20 @@
 <h1> DO-YOU-KNOW-ME </h1>
+
+<p>
 It is a CLI quiz app for Anjali's friends and families to check how well do they know her. 
 This super interesting quiz is made using nodejs.
 
 let's jump onto quiz details:
 
-Library used:
+</p>
+
+<h2> Library used: </h2>
 
 1. Readline-Sync
 
 2. CHALK
 
-About D0-YOU-KNOW-ME:
+<h3> About D0-YOU-KNOW-ME: <h3>
 
 - Firstly, It takes username from user to know who's attending the quiz .. \*
 
@@ -22,7 +26,7 @@ About D0-YOU-KNOW-ME:
 
 - The highscores at the end of the quiz shows who all know Anjali very well . \*
 
-Things needed:
+<h3>Things needed: </h3>
 Readline Sync library of node js.
 Objects within array to store questions and correct answer.
 Function which takes parameters question and answer.

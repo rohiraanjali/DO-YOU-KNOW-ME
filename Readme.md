@@ -8,7 +8,7 @@ let's jump onto quiz details:
 
 </p>
 
-<h2> Library used: </h2>
+<h3> Library used: </h3>
 
 1. Readline-Sync
 
@@ -16,15 +16,15 @@ let's jump onto quiz details:
 
 <h3> About D0-YOU-KNOW-ME: <h3>
 
-- Firstly, It takes username from user to know who's attending the quiz .. \*
+- Firstly, It takes username from user to know who's attending the quiz .. \
 
-- After that the user is asked few questions related to anjali to check how well do they know her. \*
+- After that the user is asked few questions related to anjali to check how well do they know her. \
 
-- on the basis of the answers given , the user will get the scores accordingly . Please note that , there's no negative points for wrong / incorrect answers . \*
+- on the basis of the answers given , the user will get the scores accordingly . Please note that , there's no negative points for wrong / incorrect answers . \
 
-- The users are requested to send Anjali the screenshot of their final score so that , high scores can be shown accordingly , and analysis can be made a bit more easier. \*
+- The users are requested to send Anjali the screenshot of their final score so that , high scores can be shown accordingly , and analysis can be made a bit more easier. \
 
-- The highscores at the end of the quiz shows who all know Anjali very well . \*
+- The highscores at the end of the quiz shows who all know Anjali very well . \
 
 <h3>Things needed: </h3>
 Readline Sync library of node js.
